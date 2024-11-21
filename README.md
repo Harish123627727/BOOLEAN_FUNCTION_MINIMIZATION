@@ -1,4 +1,6 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+**NAME: HARISH S**
+**REG NO: 24901078**
+**EXP NO:2: BOOLEAN_MINIMIZATION_FUNCTION**
 
 **AIM:**
 
@@ -32,6 +34,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **PROGRAM:**
+
 ![WhatsApp Image 2024-11-21 at 10 19 59_7ec7fbfd](https://github.com/user-attachments/assets/3de20107-ac9d-40fb-9dd0-f231d789484c)
 
 
